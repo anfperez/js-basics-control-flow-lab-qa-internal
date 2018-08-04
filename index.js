@@ -4,4 +4,5 @@ function scuberGreetingForFeet(distance) {
     console.log("this one is on me!");
   }
   else if (distance )
+  console.log('I will gladly take your thirty bucks.');
 }
