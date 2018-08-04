@@ -19,3 +19,5 @@ function ternaryCheckCity(city) {
     console.log("No go.");
   }
 }
+
+ternaryCheckCity("NYC");
