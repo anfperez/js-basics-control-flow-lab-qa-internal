@@ -1,4 +1,5 @@
 // Write your code in this file!
+/*
 function scuberGreetingForFeet(distance) {
   if (distance <= 400) {
     console.log("this one is on me!");
@@ -10,6 +11,7 @@ function scuberGreetingForFeet(distance) {
     console.log('No can do.');
   }
 }
+*/
 
 function ternaryCheckCity(city) {
   return city === 'NYC' ? 'Ok, sounds good.' : 'No go.';
