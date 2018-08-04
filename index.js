@@ -10,3 +10,7 @@ function scuberGreetingForFeet(distance) {
     console.log('No can do.');
   }
 }
+
+function ternaryCheckCity() {
+  
+}
