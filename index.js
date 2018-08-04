@@ -16,6 +16,6 @@ function ternaryCheckCity(city) {
     console.log("Ok, sounds good.");
   }
   else {
-    console.log()
+    console.log("No go.");
   }
 }
